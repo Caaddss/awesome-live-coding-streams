@@ -30,6 +30,8 @@ https://www.twitch.tv/codeshow
 
 https://www.twitch.tv/nceder
 
+https://www.twitch.tv/livedepython
+
 
 # JavaScript
 
