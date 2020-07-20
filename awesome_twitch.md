@@ -29,6 +29,8 @@ https://www.twitch.tv/nceder
 
 https://www.twitch.tv/livedepython
 
+https://www.twitch.tv/shebangbash
+
 
 # JavaScript
 
@@ -84,6 +86,8 @@ https://www.twitch.tv/whoiswentz
 
 https://www.twitch.tv/bellesamways
 
+https://www.twitch.tv/shebangbash
+
 # Data Science
 
 https://www.twitch.tv/teomewhy
@@ -91,3 +95,7 @@ https://www.twitch.tv/teomewhy
 https://www.twitch.tv/carlaprv
 
 https://www.twitch.tv/caaddss
+
+# Infrastructure
+
+https://www.twitch.tv/shebangbash
