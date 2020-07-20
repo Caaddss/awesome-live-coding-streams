@@ -4,21 +4,24 @@
 
 https://www.twitch.tv/aledsz
 
+# Devops
+
+https://www.twitch.tv/erikaheidi
+
 # Hardware
 
 https://www.twitch.tv/racerxdl
 
 
-
 # PHP
+
+https://www.twitch.tv/erikaheidi
 
 https://www.twitch.tv/PokemaoBR
 
 https://www.twitch.tv/danielhe4rt
 
 https://www.twitch.tv/paulo_kiitasu
-
-
 
 
 # Python
