@@ -105,3 +105,8 @@ https://www.twitch.tv/caaddss
 # Infrastructure
 
 https://www.twitch.tv/shebangbash
+
+# .NET
+
+https://www.twitch.tv/willbuildapps
+https://www.twitch.tv/ionixjunior
