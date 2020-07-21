@@ -7,6 +7,7 @@ https://www.twitch.tv/aledsz
 # Devops
 
 https://www.twitch.tv/erikaheidi
+https://www.twitch.tv/punkdodevops
 
 # Hardware
 
@@ -67,6 +68,8 @@ https://www.twitch.tv/rychillie
 # Flutter
 
 https://twitch.tv/biaher
+
+https://www.twitch.tv/stelbyrn
 
 
 # Mobile
