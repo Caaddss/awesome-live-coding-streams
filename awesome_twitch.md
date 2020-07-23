@@ -7,6 +7,7 @@ https://www.twitch.tv/aledsz
 # Devops
 
 https://www.twitch.tv/erikaheidi
+
 https://www.twitch.tv/punkdodevops
 
 # Hardware
@@ -109,4 +110,5 @@ https://www.twitch.tv/shebangbash
 # .NET
 
 https://www.twitch.tv/willbuildapps
+
 https://www.twitch.tv/ionixjunior
