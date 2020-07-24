@@ -1,3 +1,7 @@
+# CSharp
+
+https://www.twitch.tv/nonykko
+
 # Frontend
 https://www.twitch.tv/little_yuuh
 
