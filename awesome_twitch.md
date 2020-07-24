@@ -28,7 +28,7 @@ https://www.twitch.tv/paulo_kiitasu
 
 # Python
 
-https://www.twitch.tv/codeshow 
+https://www.twitch.tv/codeshow
 
 https://www.twitch.tv/nceder
 
@@ -59,6 +59,10 @@ https://www.twitch.tv/juhbotelho
 
 https://www.twitch.tv/glaucia_lemos86
 
+# TypeScript
+
+https://www.twitch.tv/programadorranzinza
+
 # Front
 
 https://www.twitch.tv/little_yuuh
@@ -85,7 +89,7 @@ https://www.twitch.tv/whoiswentz
 
 # Rust
 
-https://www.twitch.tv/codeshow 
+https://www.twitch.tv/codeshow
 
 https://www.twitch.tv/whoiswentz
 
