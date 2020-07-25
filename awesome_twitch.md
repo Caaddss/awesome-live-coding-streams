@@ -36,6 +36,8 @@ https://www.twitch.tv/livedepython
 
 https://www.twitch.tv/shebangbash
 
+https://www.twitch.tv/escslabtech
+
 
 # JavaScript
 
@@ -122,3 +124,5 @@ https://www.twitch.tv/afucher
 https://www.twitch.tv/o_gabsferreira
 
 https://www.twitch.tv/altthabs
+
+https://www.twitch.tv/escslabtech
