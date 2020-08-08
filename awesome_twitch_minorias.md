@@ -7,9 +7,12 @@ https://www.twitch.tv/little_yuuh
 
 https://www.twitch.tv/pachicodes
 
+https://www.twitch.tv/lemonoob
+
 # Flutter
 
 https://twitch.tv/stelbyrn
+
 https://twitch.tv/biaher
 
 
@@ -36,6 +39,8 @@ https://www.twitch.tv/nomadcodemist
 https://www.twitch.tv/levxyca
 
 https://www.twitch.tv/glaucia_lemos86
+
+https://www.twitch.tv/lemonoob
 
 
 # Data Science

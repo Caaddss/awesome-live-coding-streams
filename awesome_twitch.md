@@ -61,15 +61,21 @@ https://www.twitch.tv/juhbotelho
 
 https://www.twitch.tv/glaucia_lemos86
 
+https://www.twitch.tv/lemonoob
+
 # TypeScript
 
 https://www.twitch.tv/programadorranzinza
+
+https://www.twitch.tv/lemonoob
 
 # Front
 
 https://www.twitch.tv/little_yuuh
 
 https://www.twitch.tv/rychillie
+
+https://www.twitch.tv/lemonoob
 
 
 # Flutter
@@ -82,6 +88,8 @@ https://www.twitch.tv/stelbyrn
 # Mobile
 
 https://twitch.tv/biaher
+
+https://www.twitch.tv/lemonoob
 
 # GO
 
