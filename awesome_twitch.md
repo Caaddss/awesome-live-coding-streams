@@ -38,6 +38,8 @@ https://www.twitch.tv/shebangbash
 
 https://www.twitch.tv/escslabtech
 
+https://www.twitch.tv/npxbr
+
 
 # JavaScript
 
@@ -96,6 +98,9 @@ https://www.twitch.tv/lemonoob
 https://www.twitch.tv/leitaoprogramador
 
 https://www.twitch.tv/whoiswentz
+
+https://www.twitch.tv/npxbr
+
 
 # Rust
 
