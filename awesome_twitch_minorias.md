@@ -20,7 +20,7 @@ https://www.twitch.tv/xjulices
 
 https://twitch.tv/stelbyrn
 
-https://twitch.tv/biaher
+https://www.twitch.tv/biaherculano
 
 
 # Ruby
@@ -74,3 +74,8 @@ https://www.twitch.tv/loiane
 # Java
 
 https://www.twitch.tv/loiane
+
+
+# Testes e QA
+
+https://www.twitch.tv/railanepassos

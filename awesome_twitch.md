@@ -4,11 +4,15 @@
 
 https://www.twitch.tv/aledsz
 
+
 # Devops
 
 https://www.twitch.tv/erikaheidi
 
 https://www.twitch.tv/punkdodevops
+
+https://www.twitch.tv/linuxtips
+
 
 # Hardware
 
@@ -65,11 +69,15 @@ https://www.twitch.tv/glaucia_lemos86
 
 https://www.twitch.tv/lemonoob
 
+https://www.twitch.tv/xtecna
+
+
 # TypeScript
 
 https://www.twitch.tv/programadorranzinza
 
 https://www.twitch.tv/lemonoob
+
 
 # Front
 
@@ -79,19 +87,22 @@ https://www.twitch.tv/rychillie
 
 https://www.twitch.tv/lemonoob
 
+https://www.twitch.tv/xjulices
+
 
 # Flutter
 
-https://twitch.tv/biaher
+https://www.twitch.tv/biaherculano
 
 https://www.twitch.tv/stelbyrn
 
 
 # Mobile
 
-https://twitch.tv/biaher
+https://www.twitch.tv/biaherculano
 
 https://www.twitch.tv/lemonoob
+
 
 # GO
 
@@ -108,11 +119,13 @@ https://www.twitch.tv/codeshow
 
 https://www.twitch.tv/whoiswentz
 
+
 # Ruby
 
 https://www.twitch.tv/bellesamways
 
 https://www.twitch.tv/shebangbash
+
 
 # Data Science
 
@@ -122,9 +135,11 @@ https://www.twitch.tv/carlaprv
 
 https://www.twitch.tv/caaddss
 
+
 # Infrastructure
 
 https://www.twitch.tv/shebangbash
+
 
 # .NET
 
@@ -139,3 +154,18 @@ https://www.twitch.tv/o_gabsferreira
 https://www.twitch.tv/altthabs
 
 https://www.twitch.tv/escslabtech
+
+
+# Angular
+
+https://www.twitch.tv/loiane
+
+
+# Java
+
+https://www.twitch.tv/loiane
+
+
+# Testes e QA
+
+https://www.twitch.tv/railanepassos
