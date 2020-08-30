@@ -2,7 +2,9 @@
 
 https://www.twitch.tv/nonykko
 
+
 # Frontend
+
 https://www.twitch.tv/little_yuuh
 
 https://www.twitch.tv/pachicodes
@@ -10,6 +12,9 @@ https://www.twitch.tv/pachicodes
 https://www.twitch.tv/lemonoob
 
 https://www.twitch.tv/lehmaria
+
+https://www.twitch.tv/xjulices
+
 
 # Flutter
 
@@ -21,6 +26,7 @@ https://twitch.tv/biaher
 # Ruby
 
 https://www.twitch.tv/bellesamways
+
 
 # Python
 
@@ -50,9 +56,21 @@ https://www.twitch.tv/glaucia_lemos86
 
 https://www.twitch.tv/lemonoob
 
+https://www.twitch.tv/xtecna
+
 
 # Data Science
 
 https://www.twitch.tv/carlaprv
 
 https://www.twitch.tv/caaddss
+
+
+# Angular
+
+https://www.twitch.tv/loiane
+
+
+# Java
+
+https://www.twitch.tv/loiane
