@@ -65,6 +65,8 @@ https://www.twitch.tv/glaucia_lemos86
 
 https://www.twitch.tv/lemonoob
 
+https://www.twitch.tv/reisdev
+
 # TypeScript
 
 https://www.twitch.tv/programadorranzinza
