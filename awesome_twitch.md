@@ -71,12 +71,16 @@ https://www.twitch.tv/lemonoob
 
 https://www.twitch.tv/xtecna
 
+https://www.twitch.tv/reisdev
+
 
 # TypeScript
 
 https://www.twitch.tv/programadorranzinza
 
 https://www.twitch.tv/lemonoob
+
+https://www.twitch.tv/felipekafuri
 
 
 # Front
