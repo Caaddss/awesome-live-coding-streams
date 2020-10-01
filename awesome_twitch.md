@@ -217,6 +217,8 @@ https://www.twitch.tv/reisdev
 
 https://www.twitch.tv/thesweet_lari
 
+https://www.twitch.tv/tiagu_mb
+
 https://www.twitch.tv/xjulices
 
 https://www.twitch.tv/xtecna
