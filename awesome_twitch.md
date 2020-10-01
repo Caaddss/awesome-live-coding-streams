@@ -73,6 +73,10 @@ https://www.twitch.tv/xtecna
 
 https://www.twitch.tv/reisdev
 
+https://www.twitch.tv/jpbrab0
+
+https://www.twitch.tv/edersondeveloper
+
 
 # TypeScript
 
