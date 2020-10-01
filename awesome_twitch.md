@@ -100,7 +100,7 @@ https://www.twitch.tv/tearing5
 
 https://www.twitch.tv/aledsz
 
-https://www.twitch.tv/bolinhozzz
+https://www.twitch.tv/bolinhozz
 
 https://www.twitch.tv/josevalim
 
