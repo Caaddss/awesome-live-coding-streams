@@ -40,6 +40,8 @@ https://www.twitch.tv/escslabtech
 
 https://www.twitch.tv/npxbr
 
+https://www.twitch.tv/casadodev
+
 
 # JavaScript
 
@@ -139,3 +141,7 @@ https://www.twitch.tv/o_gabsferreira
 https://www.twitch.tv/altthabs
 
 https://www.twitch.tv/escslabtech
+
+# Java
+
+https://www.twitch.tv/casadodev
