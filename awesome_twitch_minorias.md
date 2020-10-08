@@ -18,9 +18,6 @@ https://www.twitch.tv/erikaheidi
 
 https://www.twitch.tv/punkdodevops
 
-
-## Infrastructure
-
 https://www.twitch.tv/shebangbash
 
 
@@ -131,7 +128,11 @@ https://www.twitch.tv/pachicodes
 
 https://www.twitch.tv/punkdodevops
 
+https://www.twitch.tv/shebangbash
+
 
 # Tests & QA
 
 https://www.twitch.tv/railanepassos
+
+https://www.twitch.tv/shebangbash
