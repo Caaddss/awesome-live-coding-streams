@@ -9,14 +9,16 @@
 [Filho da Nuvem](https://www.youtube.com/channel/UCqa6i-EYjkIqVhu1CpsBOPQ)
 
 # Python
-
-[Live de Python](https://www.youtube.com/user/mendesesduardo)      
-[Python para Zumbis](https://www.youtube.com/channel/UCripRddD4BnaMcU833ExuwA)     
-[AfroPython BR](https://www.youtube.com/channel/UC33mgJJCwa9OvVJ8HvAVe2g)
+[Live de Python](https://www.youtube.com/user/mendesesduardo)    
+[Mario Filho](https://www.youtube.com/user/marionefilho)    
+[Spacedevs](https://www.youtube.com/channel/UCedHFDY78egBPEJXL2d8OiQ)    
+[Python para Zumbis](https://www.youtube.com/channel/UCripRddD4BnaMcU833ExuwA)       
+[AfroPython BR](https://www.youtube.com/channel/UC33mgJJCwa9OvVJ8HvAVe2g)    
 
 # DevOps
 
 [Punk do Devops](https://www.youtube.com/c/PunkdoDevOps)
+[Linux Tips] (https://www.youtube.com/user/linuxtipscanal)
 
 # Infrastructure
 

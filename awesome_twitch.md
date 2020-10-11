@@ -111,6 +111,7 @@ https://www.twitch.tv/biaherculano
 
 https://www.twitch.tv/stelbyrn
 
+https://www.twitch.tv/sideera
 
 ## GOLANG
 
@@ -222,6 +223,8 @@ https://www.twitch.tv/tiagu_mb
 https://www.twitch.tv/xjulices
 
 https://www.twitch.tv/xtecna
+
+https://www.twitch.tv/sideera
 
 
 ## JavaScript, TypeScript, HTML & CSS (Mobile)
