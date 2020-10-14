@@ -6,7 +6,14 @@
 [Papo entre PyLadies](https://www.youtube.com/playlist?list=PL0tfcsij9geEE-4MhGViTgeiRBIBUnlAP)   
 [De Front com Aline](https://www.youtube.com/channel/UCjXL44YbiOb1hdSwVq51VCw)        
 [Ana no Terminal](https://www.youtube.com/channel/UCjBDPBy_A8bUnyiXQrwyuxg)      
-[Filho da Nuvem](https://www.youtube.com/channel/UCqa6i-EYjkIqVhu1CpsBOPQ)
+[Filho da Nuvem](https://www.youtube.com/channel/UCqa6i-EYjkIqVhu1CpsBOPQ)      
+[CollabCode](https://www.youtube.com/c/CollabCode/)      
+[Código Falado](https://www.youtube.com/c/CodigoFaladoLiveCoding)      
+[Glaucia Lemos](https://www.youtube.com/c/GlauciaLemos)      
+[Luvas Montano](https://www.youtube.com/c/LucasMontano)      
+[Téo Me Why](https://www.youtube.com/channel/UC-Xa9J9-B4jBOoBNIHkMMKA)      
+[Daniel He4art](https://www.youtube.com/c/DanielHe4rt)      
+[CodeShow](https://www.youtube.com/c/CodeShowbr)      
 
 # Python
 [Live de Python](https://www.youtube.com/user/mendesesduardo)    
