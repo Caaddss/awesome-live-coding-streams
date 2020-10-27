@@ -50,16 +50,22 @@ https://www.twitch.tv/loiane
 
 ## JavaScript, TypeScript (Back-End)
 
+https://www.twitch.tv/albericod
+
 https://www.twitch.tv/glaucia_lemos86
 
 https://www.twitch.tv/lemonoob
 
 https://www.twitch.tv/loiane
 
+https://www.twitch.tv/toramaru08
+
 
 ## JavaScript, TypeScript, HTML & CSS (Front-End)
 
 https://www.twitch.tv/altthabs
+
+https://www.twitch.tv/devgiordane
 
 https://www.twitch.tv/julianatech
 
