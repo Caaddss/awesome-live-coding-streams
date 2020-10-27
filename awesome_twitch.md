@@ -313,6 +313,8 @@ https://www.twitch.tv/codeshow
 
 https://www.twitch.tv/davibusanello
 
+https://www.twitch.tv/tsoding
+
 https://www.twitch.tv/whoiswentz
 
 
