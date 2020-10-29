@@ -2,356 +2,356 @@
 
 # Data Science
 
-https://www.twitch.tv/caaddss
+[caaddss](https://www.twitch.tv/caaddss)
 
-https://www.twitch.tv/carlaprv
+[carlaprv](https://www.twitch.tv/carlaprv)
 
-https://www.twitch.tv/teomewhy
+[teomewhy](https://www.twitch.tv/teomewhy)
 
 
 # Ethical Hacking
 
-https://www.twitch.tv/hackingesports
+[hackingesports](https://www.twitch.tv/hackingesports)
 
-https://www.twitch.tv/silvanodev
+[silvanodev](https://www.twitch.tv/silvanodev)
 
 
 # Hardware
 
-https://www.twitch.tv/julialabs
+[julialabs](https://www.twitch.tv/julialabs)
 
-https://www.twitch.tv/kaduzius
+[kaduzius](https://www.twitch.tv/kaduzius)
 
-https://www.twitch.tv/racerxdl
+[racerxdl](https://www.twitch.tv/racerxdl)
 
-https://www.twitch.tv/tearing5
+[tearing5](https://www.twitch.tv/tearing5)
 
 
 # Infrastructure
 
 ## Devops
 
-https://www.twitch.tv/erikaheidi
+[erikaheidi](https://www.twitch.tv/erikaheidi)
 
-https://www.twitch.tv/linuxtips
+[linuxtips](https://www.twitch.tv/linuxtips)
 
-https://www.twitch.tv/nandomoraissp
+[nandomoraissp](https://www.twitch.tv/nandomoraissp)
 
-https://www.twitch.tv/punkdodevops
+[punkdodevops](https://www.twitch.tv/punkdodevops)
 
-https://www.twitch.tv/somatorio
+[somatorio](https://www.twitch.tv/somatorio)
 
 
 ## Infrastructure
 
-https://www.twitch.tv/shebangbash
+[shebangbash](https://www.twitch.tv/shebangbash)
 
 
 # Languages & Frameworks
 
 ## .NET / C# / Xamarin
 
-https://www.twitch.tv/afucher
+[afucher](https://www.twitch.tv/afucher)
 
-https://www.twitch.tv/altthabs
+[altthabs](https://www.twitch.tv/altthabs)
 
-https://www.twitch.tv/daniel_dev
+[daniel_dev](https://www.twitch.tv/daniel_dev)
 
-https://www.twitch.tv/escslabtech
+[escslabtech](https://www.twitch.tv/escslabtech)
 
-https://www.twitch.tv/felipebaltazar
+[felipebaltazar](https://www.twitch.tv/felipebaltazar)
 
-https://www.twitch.tv/ionixjunior
+[ionixjunior](https://www.twitch.tv/ionixjunior)
 
-https://www.twitch.tv/kempsalex
+[kempsalex](https://www.twitch.tv/kempsalex)
 
-https://www.twitch.tv/o_gabsferreira
+[o_gabsferreira](https://www.twitch.tv/o_gabsferreira)
 
-https://www.twitch.tv/nonykko
+[nonykko](https://www.twitch.tv/nonykko)
 
-https://www.twitch.tv/tbertuzzi
+[tbertuzzi](https://www.twitch.tv/tbertuzzi)
 
-https://www.twitch.tv/xdidadev
+[xdidadev](https://www.twitch.tv/xdidadev)
 
-https://www.twitch.tv/willbuildapps
+[willbuildapps](https://www.twitch.tv/willbuildapps)
 
-https://www.twitch.tv/wprosdocimo
+[wprosdocimo](https://www.twitch.tv/wprosdocimo)
 
 
 ## Android
 
-https://www.twitch.tv/lucas_montano
+[lucas_montano](https://www.twitch.tv/lucas_montano)
 
 
 ## C, C++
 
-https://www.twitch.tv/levxyca
+[levxyca](https://www.twitch.tv/levxyca)
 
-https://www.twitch.tv/marlon_henq
+[marlon_henq](https://www.twitch.tv/marlon_henq)
 
-https://www.twitch.tv/muffyway
+[muffyway](https://www.twitch.tv/muffyway)
 
-https://www.twitch.tv/wesleycsj
+[wesleycsj](https://www.twitch.tv/wesleycsj)
 
-https://www.twitch.tv/tearing5
+[tearing5](https://www.twitch.tv/tearing5)
 
 
 ## Elixir
 
-https://www.twitch.tv/aledsz
+[aledsz](https://www.twitch.tv/aledsz)
 
-https://www.twitch.tv/bolinhozz
+[bolinhozz](https://www.twitch.tv/bolinhozz)
 
-https://www.twitch.tv/josevalim
+[josevalim](https://www.twitch.tv/josevalim)
 
 
 ## Flutter
 
-https://www.twitch.tv/biaherculano
+[biaherculano](https://www.twitch.tv/biaherculano)
 
-https://www.twitch.tv/stelbyrn
+[stelbyrn](https://www.twitch.tv/stelbyrn)
 
-https://www.twitch.tv/sideera
+[sideera](https://www.twitch.tv/sideera)
 
 ## GOLANG
 
-https://www.twitch.tv/chicocodes
+[chicocodes](https://www.twitch.tv/chicocodes)
 
-https://www.twitch.tv/leitaoprogramador
+[leitaoprogramador](https://www.twitch.tv/leitaoprogramador)
 
-https://www.twitch.tv/npxbr
+[npxbr](https://www.twitch.tv/npxbr)
 
-https://www.twitch.tv/profbrunolopes
+[profbrunolopes](https://www.twitch.tv/profbrunolopes
 
-https://www.twitch.tv/spacedevs
+[spacedevs](https://www.twitch.tv/spacedevs)
 
-https://www.twitch.tv/whoiswentz
+[whoiswentz](https://www.twitch.tv/whoiswentz)
 
 
 ## Java
 
-https://www.twitch.tv/casadodev
+[casadodev](https://www.twitch.tv/casadodev)
 
-https://www.twitch.tv/mariorez
+[mariorez](https://www.twitch.tv/mariorez)
 
-https://www.twitch.tv/loiane
+[loiane](https://www.twitch.tv/loiane)
 
 
 ## JavaScript, TypeScript (Back-End)
 
-https://www.twitch.tv/codigofalado
+[codigofalado](https://www.twitch.tv/codigofalado)
 
-https://www.twitch.tv/eduardorfs
+[eduardorfs](https://www.twitch.tv/eduardorfs)
 
-https://www.twitch.tv/felipekafuri
+[felipekafuri](https://www.twitch.tv/felipekafuri)
 
-https://www.twitch.tv/glaucia_lemos86
+[glaucia_lemos86](https://www.twitch.tv/glaucia_lemos86)
 
-https://www.twitch.tv/jpbrab0
+[joaolucasluc](https://www.twitch.tv/jpbrab0)
 
-https://www.twitch.tv/joaolucasluc
+[joaolucasluc](https://www.twitch.tv/joaolucasluc)
 
-https://www.twitch.tv/lemonoob
+[lemonoob](https://www.twitch.tv/lemonoob)
 
-https://www.twitch.tv/loiane
+[loiane](https://www.twitch.tv/loiane)
 
-https://www.twitch.tv/marcobrunodev
+[marcobrunodev](https://www.twitch.tv/marcobrunodev)
 
-https://www.twitch.tv/programadorranzinza
+[programadorranzinza](https://www.twitch.tv/programadorranzinza)
 
-https://www.twitch.tv/reisdev
+[reisdev](https://www.twitch.tv/reisdev)
 
-https://www.twitch.tv/victor_perin
+[victor_perin](https://www.twitch.tv/victor_perin)
 
 
 ## JavaScript, TypeScript, HTML & CSS (Front-End)
 
-https://www.twitch.tv/altthabs
+[altthabs](https://www.twitch.tv/altthabs)
 
-https://www.twitch.tv/cpsfrontend
+[cpsfrontend](https://www.twitch.tv/cpsfrontend)
 
-https://www.twitch.tv/canturil
+[canturil](https://www.twitch.tv/canturil)
 
-https://www.twitch.tv/codigofalado
+[codigofalado](https://www.twitch.tv/codigofalado)
 
-https://www.twitch.tv/devmozao
+[devmozao](https://www.twitch.tv/devmozao)
 
-https://www.twitch.tv/diogo_Miaguy
+[diogo_Miaguy](https://www.twitch.tv/diogo_Miaguy)
 
-https://www.twitch.tv/jpbrab0
+[jpbrab0](https://www.twitch.tv/jpbrab0)
 
-https://www.twitch.tv/julianatech
+[julianatech](https://www.twitch.tv/julianatech)
 
-https://www.twitch.tv/kastr0walker
+[kastr0walker](https://www.twitch.tv/kastr0walker)
 
-https://www.twitch.tv/larabeatrizms
+[larabeatrizms](https://www.twitch.tv/larabeatrizms)
 
-https://www.twitch.tv/lehmaria
+[lehmaria](https://www.twitch.tv/lehmaria)
 
-https://www.twitch.tv/lemonoob
+[lemonoob](https://www.twitch.tv/lemonoob)
 
-https://www.twitch.tv/levxyca
+[levxyca](https://www.twitch.tv/levxyca)
 
-https://www.twitch.tv/little_yuuh
+[little_yuuh](https://www.twitch.tv/little_yuuh)
 
-https://www.twitch.tv/loiane
+[loiane](https://www.twitch.tv/loiane)
 
-https://www.twitch.tv/marcobrunodev
+[marcobrunodev](https://www.twitch.tv/marcobrunodev)
 
-https://www.twitch.tv/muffyway
+[muffyway](https://www.twitch.tv/muffyway)
 
-https://www.twitch.tv/pachicodes
+[pachicodes](https://www.twitch.tv/pachicodes)
 
-https://www.twitch.tv/paulo_kiitasu
+[paulo_kiitasu](https://www.twitch.tv/paulo_kiitasu)
 
-https://www.twitch.tv/paulomoraesdev
+[paulomoraesdev](https://www.twitch.tv/paulomoraesdev)
 
-https://www.twitch.tv/pixlrose
+[pixlrose](https://www.twitch.tv/pixlrose)
 
-https://www.twitch.tv/programadorranzina
+[programadorranzina](https://www.twitch.tv/programadorranzina)
 
-https://www.twitch.tv/pythrick
+[pythrick](https://www.twitch.tv/pythrick)
 
-https://www.twitch.tv/rychillie
+[rychillie](https://www.twitch.tv/rychillie)
 
-https://www.twitch.tv/reisdev
+[reisdev](https://www.twitch.tv/reisdev)
 
-https://www.twitch.tv/thesweet_lari
+[thesweet_lari](https://www.twitch.tv/thesweet_lari)
 
-https://www.twitch.tv/tiagu_mb
+[tiagu_mb](https://www.twitch.tv/tiagu_mb)
 
-https://www.twitch.tv/xjulices
+[xjulices](https://www.twitch.tv/xjulices)
 
-https://www.twitch.tv/xtecna
+[xtecna](https://www.twitch.tv/xtecna)
 
-https://www.twitch.tv/sideera
+[sideera](https://www.twitch.tv/sideera)
 
 
 ## JavaScript, TypeScript, HTML & CSS (Mobile)
 
-https://www.twitch.tv/csorlandi
+[csorlandi](https://www.twitch.tv/csorlandi)
 
-https://www.twitch.tv/lemonoob
+[lemonoob](https://www.twitch.tv/lemonoob)
 
 
 ## Lua
 
-https://www.twitch.tv/marcobrunodev/
+[marcobrunodev](https://www.twitch.tv/marcobrunodev/)
 
 ## OCaml
 
-https://www.twitch.tv/eduardorfs
+[eduardorfs](https://www.twitch.tv/eduardorfs)
 
 ## PHP
 
-https://www.twitch.tv/chicaocodes
+[chicaocodes](https://www.twitch.tv/chicaocodes)
 
-https://www.twitch.tv/danielhe4rt
+[danielhe4rt](https://www.twitch.tv/danielhe4rt)
 
-https://www.twitch.tv/eduardocodes
+[eduardocodes](https://www.twitch.tv/eduardocodes)
 
-https://www.twitch.tv/erikaheidi
+[erikaheidi](https://www.twitch.tv/erikaheidi)
 
-https://www.twitch.tv/felipef0ntana
+[felipef0ntana](https://www.twitch.tv/felipef0ntana)
 
-https://www.twitch.tv/felipez3r0
+[felipez3r0](https://www.twitch.tv/felipez3r0)
 
-https://www.twitch.tv/juhbotelho
+[juhbotelho](https://www.twitch.tv/juhbotelho)
 
-https://www.twitch.tv/paulo_kiitasu
+[paulo_kiitasu](https://www.twitch.tv/paulo_kiitasu)
 
-https://www.twitch.tv/pokemaobr
+[pokemaobr](https://www.twitch.tv/pokemaobr)
 
-https://www.twitch.tv/rattones
+[rattones](https://www.twitch.tv/rattones)
 
-https://www.twitch.tv/rodrigodeveloper
+[rodrigodeveloper](https://www.twitch.tv/rodrigodeveloper)
 
-https://www.twitch.tv/tearing5
+[tearing5](https://www.twitch.tv/tearing5)
 
 
 ## Python
 
-https://www.twitch.tv/caaddss
+[caaddss](https://www.twitch.tv/caaddss)
 
-https://www.twitch.tv/codeshow
+[codeshow](https://www.twitch.tv/codeshow)
 
-https://www.twitch.tv/escslabtech
+[escslabtech](https://www.twitch.tv/escslabtech)
 
-https://www.twitch.tv/karlamag
+[karlamag](https://www.twitch.tv/karlamag)
 
-https://www.twitch.tv/livedepython
+[livedepython](https://www.twitch.tv/livedepython)
 
-https://www.twitch.tv/nceder
+[nceder](https://www.twitch.tv/nceder)
 
-https://www.twitch.tv/nomadcodemist
+[nomadcodemist](https://www.twitch.tv/nomadcodemist)
 
-https://www.twitch.tv/npxbr
+[npxbr](https://www.twitch.tv/npxbr)
 
-https://www.twitch.tv/pythrick
+[pythrick](https://www.twitch.tv/pythrick)
 
-https://www.twitch.tv/shebangbash
+[shebangbash](https://www.twitch.tv/shebangbash)
 
-https://www.twitch.tv/teomewhy
+[teomewhy](https://www.twitch.tv/teomewhy)
 
-https://www.twitch.tv/vitthin
+[vitthin](https://www.twitch.tv/vitthin)
 
 
 ## Ruby
 
-https://www.twitch.tv/bellesamways
+[bellesamways](https://www.twitch.tv/bellesamways)
 
-https://www.twitch.tv/edersondeveloper
+[edersondeveloper](https://www.twitch.tv/edersondeveloper)
 
-https://www.twitch.tv/paulogubio
+[paulogubio](https://www.twitch.tv/paulogubio)
 
-https://www.twitch.tv/shebangbash
+[shebangbash](https://www.twitch.tv/shebangbash)
 
 
 ## Rust
 
-https://www.twitch.tv/codeshow
+[codeshow](https://www.twitch.tv/codeshow)
 
-https://www.twitch.tv/davibusanello
+[davibusanello](https://www.twitch.tv/davibusanello)
 
-https://www.twitch.tv/tsoding
+[tsoding](https://www.twitch.tv/tsoding)
 
-https://www.twitch.tv/whoiswentz
+[whoiswentz](https://www.twitch.tv/whoiswentz)
 
 
 # Others
 
 ## Bioinformatics
 
-https://www.twitch.tv/itsevolution
+[itsevolution](https://www.twitch.tv/itsevolution)
 
 
 ## Entertainment, Talks & Podcasts
 
-https://www.twitch.tv/cabracast
+[cabracast](https://www.twitch.tv/cabracast)
 
-https://www.twitch.tv/codigofalado
+[codigofalado](https://www.twitch.tv/codigofalado)
 
-https://www.twitch.tv/danielhe4rt
+[danielhe4rt](https://www.twitch.tv/danielhe4rt)
 
-https://www.twitch.tv/devmozao
+[devmozao](https://www.twitch.tv/devmozao)
 
-https://www.twitch.tv/levxyca
+[levxyca](https://www.twitch.tv/levxyca)
 
-https://www.twitch.tv/little_yuuh
+[little_yuuh](https://www.twitch.tv/little_yuuh)
 
-https://www.twitch.tv/o_gabsferreira
+[o_gabsferreira](https://www.twitch.tv/o_gabsferreira)
 
-https://www.twitch.tv/pachicodes
+[pachicodes](https://www.twitch.tv/pachicodes)
 
-https://www.twitch.tv/pokemaobr
+[pokemaobr](https://www.twitch.tv/pokemaobr)
 
-https://www.twitch.tv/punkdodevops
+[punkdodevops](https://www.twitch.tv/punkdodevops)
 
-https://www.twitch.tv/somatorio
+[somatorio](https://www.twitch.tv/somatorio)
 
-https://www.twitch.tv/tavernadev
+[tavernadev](https://www.twitch.tv/tavernadev)
 
 
 # Tests & QA
 
-https://www.twitch.tv/railanepassos
+[railanepassos](https://www.twitch.tv/railanepassos)

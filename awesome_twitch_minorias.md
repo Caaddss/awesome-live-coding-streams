@@ -2,143 +2,143 @@
 
 # Data Science
 
-https://www.twitch.tv/caaddss
+[caaddss](https://www.twitch.tv/caaddss)
 
-https://www.twitch.tv/carlaprv
+[carlaprv](https://www.twitch.tv/carlaprv)
 
 # Hardware
 
-https://www.twitch.tv/julialabs
+[julialabs](https://www.twitch.tv/julialabs)
 
 # Infrastructure
 
 ## Devops
 
-https://www.twitch.tv/erikaheidi
+[erikaheidi](https://www.twitch.tv/erikaheidi)
 
-https://www.twitch.tv/punkdodevops
+[punkdodevops](https://www.twitch.tv/punkdodevops)
 
-https://www.twitch.tv/shebangbash
+[shebangbash](https://www.twitch.tv/shebangbash)
 
 
 # Languages & Frameworks
 
 ## .NET / C# / Xamarin
 
-https://www.twitch.tv/altthabs
+[altthabs](https://www.twitch.tv/altthabs)
 
-https://www.twitch.tv/nonykko
+[nonykko](https://www.twitch.tv/nonykko)
 
 ## C, C++
 
-https://www.twitch.tv/levxyca
+[levxyca](https://www.twitch.tv/levxyca)
 
-https://www.twitch.tv/muffyway
+[muffyway](https://www.twitch.tv/muffyway)
 
 
 ## Flutter
 
-https://www.twitch.tv/biaherculano
+[biaherculano](https://www.twitch.tv/biaherculano)
 
-https://www.twitch.tv/stelbyrn
+[stelbyrn](https://www.twitch.tv/stelbyrn)
 
 
 ## Java
 
-https://www.twitch.tv/loiane
+[loiane](https://www.twitch.tv/loiane)
 
 
 ## JavaScript, TypeScript (Back-End)
 
-https://www.twitch.tv/albericod
+[albericod](https://www.twitch.tv/albericod)
 
-https://www.twitch.tv/glaucia_lemos86
+[glaucia_lemos86](https://www.twitch.tv/glaucia_lemos86)
 
-https://www.twitch.tv/lemonoob
+[lemonoob](https://www.twitch.tv/lemonoob)
 
-https://www.twitch.tv/loiane
+[loiane](https://www.twitch.tv/loiane)
 
-https://www.twitch.tv/toramaru08
+[toramaru08](https://www.twitch.tv/toramaru08)
 
 
 ## JavaScript, TypeScript, HTML & CSS (Front-End)
 
-https://www.twitch.tv/altthabs
+[altthabs](https://www.twitch.tv/altthabs)
 
-https://www.twitch.tv/devgiordane
+[devgiordane](https://www.twitch.tv/devgiordane)
 
-https://www.twitch.tv/julianatech
+[julianatech](https://www.twitch.tv/julianatech)
 
-https://www.twitch.tv/larabeatrizms
+[larabeatrizms](https://www.twitch.tv/larabeatrizms)
 
-https://www.twitch.tv/lehmaria
+[lehmaria](https://www.twitch.tv/lehmaria)
 
-https://www.twitch.tv/lemonoob
+[lemonoob](https://www.twitch.tv/lemonoob)
 
-https://www.twitch.tv/levxyca
+[levxyca](https://www.twitch.tv/levxyca)
 
-https://www.twitch.tv/little_yuuh
+[little_yuuh](https://www.twitch.tv/little_yuuh)
 
-https://www.twitch.tv/loiane
+[loiane](https://www.twitch.tv/loiane)
 
-https://www.twitch.tv/muffyway
+[muffyway](https://www.twitch.tv/muffyway)
 
-https://www.twitch.tv/pachicodes
+[pachicodes](https://www.twitch.tv/pachicodes)
 
-https://www.twitch.tv/pixlrose
+[pixlrose](https://www.twitch.tv/pixlrose)
 
-https://www.twitch.tv/thesweet_lari
+[thesweet_lari](https://www.twitch.tv/thesweet_lari)
 
-https://www.twitch.tv/xjulices
+[xjulices](https://www.twitch.tv/xjulices)
 
-https://www.twitch.tv/xtecna
+[xtecna](https://www.twitch.tv/xtecna)
 
 
 ## JavaScript, TypeScript, HTML & CSS (Mobile)
 
-https://www.twitch.tv/lemonoob
+[lemonoob](https://www.twitch.tv/lemonoob)
 
 
 ## PHP
 
-https://www.twitch.tv/erikaheidi
+[erikaheidi](https://www.twitch.tv/erikaheidi)
 
-https://www.twitch.tv/juhbotelho
+[juhbotelho](https://www.twitch.tv/juhbotelho)
 
 
 ## Python
 
-https://www.twitch.tv/caaddss
+[caaddss](https://www.twitch.tv/caaddss)
 
-https://www.twitch.tv/karlamag
+[karlamag](https://www.twitch.tv/karlamag)
 
-https://www.twitch.tv/nomadcodemist
+[nomadcodemist](https://www.twitch.tv/nomadcodemist)
 
-https://www.twitch.tv/shebangbash
+[shebangbash](https://www.twitch.tv/shebangbash)
 
 
 ## Ruby
 
-https://www.twitch.tv/bellesamways
+[bellesamways](https://www.twitch.tv/bellesamways)
 
 
 # Others
 
 ## Entertainment, Talks & Podcasts
 
-https://www.twitch.tv/levxyca
+[levxyca](https://www.twitch.tv/levxyca)
 
-https://www.twitch.tv/little_yuuh
+[little_yuuh](https://www.twitch.tv/little_yuuh)
 
-https://www.twitch.tv/pachicodes
+[pachicodes](https://www.twitch.tv/pachicodes)
 
-https://www.twitch.tv/punkdodevops
+[punkdodevops](https://www.twitch.tv/punkdodevops)
 
-https://www.twitch.tv/shebangbash
+[shebangbash](https://www.twitch.tv/shebangbash)
 
 
 # Tests & QA
 
-https://www.twitch.tv/railanepassos
+[shebangbash](https://www.twitch.tv/shebangbash)
 
-https://www.twitch.tv/shebangbash
+[shebangbash](https://www.twitch.tv/shebangbash)
