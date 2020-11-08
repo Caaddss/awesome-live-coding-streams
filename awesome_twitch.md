@@ -355,3 +355,7 @@
 # Tests & QA
 
 [railanepassos](https://www.twitch.tv/railanepassos)
+
+# Gamedev 
+
+[BalterCFH](https://www.twitch.tv/baltercfh)
