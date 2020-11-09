@@ -279,7 +279,7 @@
 
 [karlamag](https://www.twitch.tv/karlamag)
 
-[livedepython](https://www.twitch.tv/livedepython)
+[dunossauro](https://www.twitch.tv/dunossauro)
 
 [nceder](https://www.twitch.tv/nceder)
 
