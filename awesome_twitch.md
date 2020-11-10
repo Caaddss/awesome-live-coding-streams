@@ -121,7 +121,7 @@
 
 [npxbr](https://www.twitch.tv/npxbr)
 
-[profbrunolopes](https://www.twitch.tv/profbrunolopes
+[profbrunolopes](https://www.twitch.tv/profbrunolopes)
 
 [spacedevs](https://www.twitch.tv/spacedevs)
 
@@ -147,7 +147,7 @@
 
 [glaucia_lemos86](https://www.twitch.tv/glaucia_lemos86)
 
-[joaolucasluc](https://www.twitch.tv/jpbrab0)
+[jpbrab0](https://www.twitch.tv/jpbrab0)
 
 [joaolucasluc](https://www.twitch.tv/joaolucasluc)
 
