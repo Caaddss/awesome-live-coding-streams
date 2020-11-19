@@ -163,6 +163,7 @@
 
 [victor_perin](https://www.twitch.tv/victor_perin)
 
+[sampaioleal](https://www.twitch.tv/sampaioleal)
 
 ## JavaScript, TypeScript, HTML & CSS (Front-End)
 
