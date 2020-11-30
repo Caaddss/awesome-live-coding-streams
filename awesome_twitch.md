@@ -195,6 +195,8 @@
 
 [little_yuuh](https://www.twitch.tv/little_yuuh)
 
+[Liuizn](https://www.twitch.tv/liuizn)
+
 [loiane](https://www.twitch.tv/loiane)
 
 [marcobrunodev](https://www.twitch.tv/marcobrunodev)
