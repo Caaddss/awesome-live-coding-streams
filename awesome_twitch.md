@@ -237,6 +237,11 @@
 [lemonoob](https://www.twitch.tv/lemonoob)
 
 
+## Kotlin (Backend)
+
+[morgiovanelli](https://www.twitch.tv/morgiovanelli)
+
+
 ## Lua
 
 [marcobrunodev](https://www.twitch.tv/marcobrunodev/)

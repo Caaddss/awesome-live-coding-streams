@@ -99,6 +99,11 @@
 [lemonoob](https://www.twitch.tv/lemonoob)
 
 
+## Kotlin (Backend)
+
+[morgiovanelli](https://www.twitch.tv/morgiovanelli)
+
+
 ## PHP
 
 [erikaheidi](https://www.twitch.tv/erikaheidi)
