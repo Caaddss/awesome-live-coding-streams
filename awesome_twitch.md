@@ -240,6 +240,7 @@
 ## Kotlin (Backend)
 
 [morgiovanelli](https://www.twitch.tv/morgiovanelli)
+[casadodev](https://www.twitch.tv/casadodev)
 
 
 ## Lua
@@ -302,6 +303,8 @@
 [teomewhy](https://www.twitch.tv/teomewhy)
 
 [vitthin](https://www.twitch.tv/vitthin)
+
+[casadodev](https://www.twitch.tv/casadodev)
 
 
 ## Ruby
