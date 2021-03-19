@@ -57,7 +57,7 @@
 
 [daniel_dev](https://www.twitch.tv/daniel_dev)
 
-[escslabtech](https://www.twitch.tv/escslabtech)
+[edinei.dev](https://www.twitch.tv/edineidev)
 
 [felipebaltazar](https://www.twitch.tv/felipebaltazar)
 
